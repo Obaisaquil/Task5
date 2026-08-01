@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins" , Arial, sans-serif;
+}
+
+body {
+    height: 100vh;
+    min-width:100vw;
+    background-color: white;
+}
+
+.header {
+    background-color: transparent;
+    height: 8vh;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: 600;
+    color: #37495A;
+    margin-left: 80px;
+    padding: 15px 0px 15px 0px;
+    height: 8vh;
+    float: left;
+    align-items: center;
+    text-align: center;
+}
+
+.navbar {
+    height: 8vh;
+    display: inline-block;
+    padding: 22px 0px;
+}
+
+a {
+    font-size: 17px;
+    color: #8A949E;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+#cn {
+    margin-right: 25px;
+}
+
+.btn1 {
+    float: right;
+    height: 8vh;
+    margin-right: 80px;
+}
+
+.btn {
+    background-color: #e6f5ff;
+    color: #2196f3;
+    border: none;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 10px 20px;
+    height: 6vh;
+    margin: 7px 0px 7px;
+}
+
+.heroSec {
+    height: 91vh;
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+}
+
+.right {
+    height: 100vh;
+    width: 50vw;
+    float: right;
+}
+
+.Image {
+    margin-top:100px; 
+}
+
+.left {
+    height: 100vh;
+    width: 50vw;
+    display: inline-block;
+    text-align: justify;
+}
+.heading {
+    font-size: 60px;
+    width: 37vw;
+    line-height: 80px;
+    color: #455A64;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.disc {
+    font-size: large;
+    width: 31vw;
+    color: #9EADB5;
+    margin: 0px 0px 40px 100px;
+}
+
+.btn2 {
+    height: 50px;
+    width: 180px;
+    border-radius: 15px;
+    border: none;
+    background-color: #29AEF5;
+    margin-left: 100px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
